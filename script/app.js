@@ -28,7 +28,7 @@ const requestActivity = async event => {
 	loadingElement.style.visibility = 'visible';
 
     //getting the values
-    let urlString = `http://www.boredapi.com/api/activity?`
+    let urlString = `https://www.boredapi.com/api/activity?`
 
     const tmpData = await getData(urlString);
 
