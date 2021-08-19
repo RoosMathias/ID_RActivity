@@ -1,2 +1,2 @@
 # ID_Ractivity
- Interaction desing 2de zit opdracht
+ Interaction design, 2de zit opdracht
